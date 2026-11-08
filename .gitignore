@@ -1,0 +1,11 @@
+bin/
+dist/
+*.exe
+*.test
+*.out
+coverage.html
+testlab/
+iocs*.txt
+.vscode/
+.idea/
+scripts/hx-testdata/
